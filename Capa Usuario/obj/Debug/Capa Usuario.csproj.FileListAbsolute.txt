@@ -1,0 +1,12 @@
+C:\Users\elifi\Desktop\MiPrimeraAplicacionMVCConCapas\Capa Usuario\bin\Debug\Capa Usuario.dll
+C:\Users\elifi\Desktop\MiPrimeraAplicacionMVCConCapas\Capa Usuario\bin\Debug\Capa Usuario.pdb
+C:\Users\elifi\Desktop\MiPrimeraAplicacionMVCConCapas\Capa Usuario\obj\Debug\Capa Usuario.csprojAssemblyReference.cache
+C:\Users\elifi\Desktop\MiPrimeraAplicacionMVCConCapas\Capa Usuario\obj\Debug\Capa Usuario.csproj.CoreCompileInputs.cache
+C:\Users\elifi\Desktop\MiPrimeraAplicacionMVCConCapas\Capa Usuario\obj\Debug\Capa Usuario.dll
+C:\Users\elifi\Desktop\MiPrimeraAplicacionMVCConCapas\Capa Usuario\obj\Debug\Capa Usuario.pdb
+C:\Users\ASUS\Desktop\MiPrimeraAplicacionMVCConCapas\MiPrimeraAplicacionMVCConCapas\Capa Usuario\bin\Debug\Capa Usuario.dll
+C:\Users\ASUS\Desktop\MiPrimeraAplicacionMVCConCapas\MiPrimeraAplicacionMVCConCapas\Capa Usuario\bin\Debug\Capa Usuario.pdb
+C:\Users\ASUS\Desktop\MiPrimeraAplicacionMVCConCapas\MiPrimeraAplicacionMVCConCapas\Capa Usuario\obj\Debug\Capa Usuario.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\MiPrimeraAplicacionMVCConCapas\MiPrimeraAplicacionMVCConCapas\Capa Usuario\obj\Debug\Capa Usuario.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\MiPrimeraAplicacionMVCConCapas\MiPrimeraAplicacionMVCConCapas\Capa Usuario\obj\Debug\Capa Usuario.dll
+C:\Users\ASUS\Desktop\MiPrimeraAplicacionMVCConCapas\MiPrimeraAplicacionMVCConCapas\Capa Usuario\obj\Debug\Capa Usuario.pdb
